@@ -55,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="4335_Spiridonova.xaml.cs">
+      <DependentUpon>4335_Spiridonova.xaml</DependentUpon>
+    </Compile>
     <Compile Include="4335_Yakimova.xaml.cs">
       <DependentUpon>4335_Yakimova.xaml</DependentUpon>
     </Compile>
@@ -73,6 +76,10 @@
     <Compile Include="Zhelvakov_4335.xaml.cs">
       <DependentUpon>Zhelvakov_4335.xaml</DependentUpon>
     </Compile>
+    <Page Include="4335_Spiridonova.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="4335_Yakimova.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
