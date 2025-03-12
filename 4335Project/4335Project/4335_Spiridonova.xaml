@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="_4335_Spiridonova" Height="450" Width="800">
     <Grid>
-        
+        <Button Name="ImportButton" Content="Импорт данных" HorizontalAlignment="Left" Margin="133,138,0,0" VerticalAlignment="Top" Width="163" Click="ImportButton_Click"/>
+        <Button Name="ExportButton" Content="Экспорт в Excel" HorizontalAlignment="Left" Margin="133,179,0,0" VerticalAlignment="Top" Width="163" Click="ExportButton_Click"/>
+
     </Grid>
 </Window>
