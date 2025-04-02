@@ -9,6 +9,8 @@
     <Grid>
         <Button Name="ImportButton" Content="Импорт данных" HorizontalAlignment="Left" Margin="133,138,0,0" VerticalAlignment="Top" Width="163" Click="ImportButton_Click"/>
         <Button Name="ExportButton" Content="Экспорт в Excel" HorizontalAlignment="Left" Margin="133,179,0,0" VerticalAlignment="Top" Width="163" Click="ExportButton_Click"/>
+        <Button Content="Импорт JSON данных" HorizontalAlignment="Left" Margin="421,148,0,0" VerticalAlignment="Top" Width="150" Click="ImportJson_Click"/>
+        <Button Content="Экспорт в Word" HorizontalAlignment="Left" Margin="421,189,0,0" VerticalAlignment="Top" Width="150" Click="ExportWord_Click"/>
 
     </Grid>
 </Window>

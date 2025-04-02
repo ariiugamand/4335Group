@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\4335_spiridonova.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335project\\4335_spiridonova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\4335_spiridonova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\4335group\\4335project\\4335project\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\4335group\\4335project\\4335project\\sevrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335project\\sevrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\sevrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\4335group\\4335project\\4335project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\4335group\\4335project\\4335project\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,6 +38,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "4335Project\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\AppDbContext.cs",
+              "RelativeToolTip": "4335Project\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:13:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\App.xaml",
@@ -54,26 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "4335Project\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\AppDbContext.cs",
-              "RelativeToolTip": "4335Project\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T09:29:14.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Sevrice.cs",
               "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\Sevrice.cs",
               "RelativeDocumentMoniker": "4335Project\\Sevrice.cs",
               "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\Sevrice.cs",
               "RelativeToolTip": "4335Project\\Sevrice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T09:24:17.406Z",
               "EditorCaption": ""
@@ -86,21 +82,9 @@
               "RelativeDocumentMoniker": "4335Project\\4335_Spiridonova.xaml.cs",
               "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\4335_Spiridonova.xaml.cs",
               "RelativeToolTip": "4335Project\\4335_Spiridonova.xaml.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAowIgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAG0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T17:51:04.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "4335_Spiridonova.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\4335_Spiridonova.xaml",
-              "RelativeDocumentMoniker": "4335Project\\4335_Spiridonova.xaml",
-              "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\4335Group\\4335Project\\4335Project\\4335_Spiridonova.xaml",
-              "RelativeToolTip": "4335Project\\4335_Spiridonova.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-25T17:51:00.06Z",
               "EditorCaption": ""
             }
           ]
